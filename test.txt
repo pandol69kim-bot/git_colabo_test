@@ -1,2 +1,7 @@
 1. test
+<<<<<<< HEAD
 2. test2
+=======
+2. test2 aa
+3. test3
+>>>>>>> 96db2802caf77f867e2dbde89e44f72d836298b8
